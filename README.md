@@ -22,10 +22,16 @@ and more modern interface following Material Design guidelines.
 - Android Studio
 - XML Layouts
 - Material Design Components
+## 📸 App Screenshots
 
-## 📸 Screenshot
+### Before UI
+![Before UI](before_ui.png)
 
-![App Screenshot 1.png](Screenshot 1.png)
+### After UI
+![After UI](after_ui.png)
+
+### Project Screenshot
+![Project Screenshot](screenshot.png)
 
 
 ## 📂 Project Structure
