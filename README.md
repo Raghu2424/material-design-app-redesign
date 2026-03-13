@@ -25,7 +25,14 @@ and more modern interface following Material Design guidelines.
 
 ## 📸 Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot1.png](screenshot 1.png)
+
+
+## Before UI
+![Before UI](before_ui.png)
+
+## After UI
+![After UI](after_ui.png)
 
 ## 📂 Project Structure
 
