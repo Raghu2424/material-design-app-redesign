@@ -25,7 +25,7 @@ and more modern interface following Material Design guidelines.
 
 ## 📸 Screenshot
 
-![App Screenshot1.png](screenshot 1.png)
+![App Screenshot 1.png](Screenshot 1.png)
 
 
 ## Before UI
