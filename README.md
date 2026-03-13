@@ -31,7 +31,7 @@ and more modern interface following Material Design guidelines.
 ![After UI](After.png)
 
 ### Project Screenshot
-![Projectscreenshot.png](Project screenshot.png)
+![Projectscreenshot.png](Projectscreenshot.png)
 
 
 ## 📂 Project Structure
