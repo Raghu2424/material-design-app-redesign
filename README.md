@@ -28,12 +28,6 @@ and more modern interface following Material Design guidelines.
 ![App Screenshot 1.png](Screenshot 1.png)
 
 
-## Before UI
-![Before UI](before_ui.png)
-
-## After UI
-![After UI](after_ui.png)
-
 ## 📂 Project Structure
 
 ```
